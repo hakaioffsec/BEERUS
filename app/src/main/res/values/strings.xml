@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BEERUS</string>
+    <string name="app_description">Beerus Banner</string>
+    <string name="data_storage">Data Storage on</string>
+    <string name="on_data">/data/data/</string>
+    <string name="button_vps_address">IP ADDRESS</string>
+    <string name="button_port">PORT</string>
+    <string name="button_send">SEND</string>
+
+</resources>
