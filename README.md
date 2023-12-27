@@ -11,4 +11,4 @@ The main objective of Beerus APK is to exfiltrate packages located in the '/data
 https://labs.hakaioffsec.com/beerus-apk-spotlighting-sandbox-exfiltration/
 
 ## Slide from a talk at the H2HC 2023 Mobile Village Conference.
-[Slide](/app/release/Beerus%20-%20A%20Better%20PoC.ppt)
+[Slide](/app/release/Beerus - A Better PoC.pptx)
