@@ -1,3 +1,8 @@
+<h1 align="center">
+  <br>
+  <a href="https://github.com/hakaioffsec/BEERUS"><img src="https://github.com/hakaioffsec/BEERUS/assets/13952914/31b6d346-9637-481b-a4ec-0d2ee0840572" alt="beerus"></a>
+</h1>
+
 # BEERUS
 The main objective of Beerus APK is to exfiltrate packages located in the '/data/data/' directory. As demonstrated in various studies and articles, data exfiltration can occur through different paths within a smartphone, and some do not require a high level of permission. Currently, we are developing updates that will expand the capabilities of BEERUS APK. One of the features is the option to choose the path or file for data exfiltration precisely. This new feature will allow the application to not only be limited to the sandbox path but also explore other areas of the Android operating system.
 
@@ -7,8 +12,8 @@ The main objective of Beerus APK is to exfiltrate packages located in the '/data
 ## Download:
 [BEERUS.apk](app/release/BEERUS.apk)
 
-## Blogstpost:
+## Blogpost:
 https://labs.hakaioffsec.com/beerus-apk-spotlighting-sandbox-exfiltration/
 
-## Slide from a talk at the H2HC 2023 Mobile Village Conference.
+## Slide from a talk at the H2HC 2023 Mobile Village Conference:
 [Slide](/app/release/Beerus%20-%20A%20Better%20PoC.pptx)
